@@ -1,2 +1,2 @@
 export { Progress } from './progress';
-export { useProgressUpdater } from './state';
+export { useProgressUpdater, useProgressIncrementUpdater } from './state';
